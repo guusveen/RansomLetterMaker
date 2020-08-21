@@ -1,0 +1,9 @@
+c:\users\guus_\documents\visual studio 2017\Projects\Projects\LetterChaos\bin\Debug\LetterChaos.exe.config
+c:\users\guus_\documents\visual studio 2017\Projects\Projects\LetterChaos\bin\Debug\LetterChaos.exe
+c:\users\guus_\documents\visual studio 2017\Projects\Projects\LetterChaos\bin\Debug\LetterChaos.pdb
+c:\users\guus_\documents\visual studio 2017\Projects\Projects\LetterChaos\obj\Debug\LetterChaos.csprojResolveAssemblyReference.cache
+c:\users\guus_\documents\visual studio 2017\Projects\Projects\LetterChaos\obj\Debug\LetterChaos.Form1.resources
+c:\users\guus_\documents\visual studio 2017\Projects\Projects\LetterChaos\obj\Debug\LetterChaos.Properties.Resources.resources
+c:\users\guus_\documents\visual studio 2017\Projects\Projects\LetterChaos\obj\Debug\LetterChaos.csproj.GenerateResource.Cache
+c:\users\guus_\documents\visual studio 2017\Projects\Projects\LetterChaos\obj\Debug\LetterChaos.exe
+c:\users\guus_\documents\visual studio 2017\Projects\Projects\LetterChaos\obj\Debug\LetterChaos.pdb
